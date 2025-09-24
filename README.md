@@ -1,4 +1,4 @@
-# Hi there! I’m **Frozen** ✨
+# Hi there! I'm **Frozen** ✨
 
 <div align="center">
   
@@ -14,12 +14,12 @@
 
 ## 🎯 About Me
 
-Hi, I'm **Sabareesh**, a computer science student passionate about **software development** and **cybersecurity**. I have hands-on experience with **C** and **C++**, focusing on writing optimized, efficient code. I'm eager to learn, grow, and build impactful real-world solutions.
+Hi, I'm **Frozen**, a computer science student passionate about **software development** and **cybersecurity**. I have hands-on experience with **C** and **C++**, focusing on writing optimized, efficient code. I'm eager to learn, grow, and build impactful real-world solutions.
 
 ```cpp
 class Developer {
 public:
-    string name = "Sabareesh";
+    string name = "Frozen (Sabareesh)";
     string role = "Computer Science Student";
     vector<string> strengths = {"C", "C++", "Problem Solving", "Quick Learner"};
     string passion = "Building efficient, real-world solutions";
@@ -65,9 +65,9 @@ public:
 </div>
 
 ### **Recent Achievements**
-- 🏆 **Microsoft Office Tour 2024** - Active Participant
+- 🏆 **Microsoft Office Tour 2024** - Active Participant (Sabareesh)
 - ✅ **8 Microsoft Certifications** - Completed across various domains
-- 📚 **Self-Taught Journey** - Mastering programming fundamentals independently
+- 📚 **Self-Taught Journey** - Frozen's path to mastering programming fundamentals
 - 💼 **Professional Development** - Building industry-ready skills
 
 ---
@@ -160,6 +160,8 @@ Whether you're looking to **collaborate on a project**, need a **motivated devel
 > *"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."*
 >
 > **- Robin Sharma**
+>
+> *"Code is poetry written in logic."* **- Frozen**
 
 </div>
 
