@@ -1,162 +1,174 @@
-# 👋 Hey there! I'm Sabareesh (@Frozen-47)
+# Hey! I'm **Sabareesh** 👨‍💻
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Problem+Solver;Code+Enthusiast;Always+Learning!)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;Computer+Science+Student;Problem+Solver;Always+Learning!)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=Frozen-47&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  **Passionate about software development and cybersecurity**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Frozen-47&label=Profile%20views&color=0e75b6&style=flat)
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-```typescript
-const sabareesh = {
-    education: "B.Sc. Computer Technology",
-    location: "India 🇮🇳",
-    languages: ["C++", "Python", "JavaScript", "Java"],
-    interests: ["Web Development", "AI/ML", "Problem Solving", "Open Source"],
-    currentFocus: "Building innovative solutions with modern tech",
-    funFact: "I debug code faster than I find my TV remote! 🎮"
+Hi, I'm **Sabareesh**, a computer science student passionate about **software development** and **cybersecurity**. I have hands-on experience with **C** and **C++**, focusing on writing optimized, efficient code. I'm eager to learn, grow, and build impactful real-world solutions.
+
+```cpp
+class Developer {
+public:
+    string name = "Sabareesh";
+    string role = "Computer Science Student";
+    vector<string> strengths = {"C", "C++", "Problem Solving", "Quick Learner"};
+    string passion = "Building efficient, real-world solutions";
+    string goal = "Landing at Zoho & mastering competitive programming";
 };
 ```
 
-- 🎯 **Currently focusing on:** Full-stack development and AI integration
-- 🌱 **Learning:** Advanced algorithms, cloud technologies, and machine learning
-- 💡 **Passionate about:** Creating user-friendly applications and solving real-world problems
-- ⚡ **Quick fact:** Love turning coffee into code! ☕→💻
-
 ---
 
-## 🏆 Featured Projects
+## 💻 Technical Skills
 
 <div align="center">
 
-| 🌟 Project | 📝 Description | 🛠️ Technologies | 🔗 Status |
-|------------|----------------|------------------|-----------|
-| **[Phantom-Safe](https://github.com/Frozen-47/phantom-safe)** | 🔒 Mobile security app with auto-lock, alerts & cloud backup | Java, Android SDK | 🔒 Private |
-| **[Terminal To-Do](https://github.com/Frozen-47/To-do)** | 💻 Stylish terminal-inspired task manager | HTML, CSS, JavaScript | ✅ Live |
-| **[IntruderSnap](https://github.com/Frozen-47/intruder-snap)** | 🔍 AI-powered unauthorized access detection | Python, OpenCV | 🚧 In Progress |
-| **[Portfolio](https://github.com/Frozen-47/Portfolio)** | 🎨 Interactive developer portfolio website | HTML, CSS, JavaScript | 🌐 Deployed |
-| **[DataStructures Hub](https://github.com/Frozen-47/DataStructure)** | 📚 Comprehensive DS & algorithms practice | C++, Python | 📖 Educational |
-| **[WordsMuseum](https://github.com/Frozen-47/WordsMuseum)** | 📖 Interactive word-based creative projects | HTML, CSS | 🎨 Creative |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
+### **Core Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Frontend
+### **Currently Learning**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### **Core Concepts**
+- 📊 **Data Structures & Algorithms**
+- 🧩 **Problem Solving & Competitive Programming**
+- 🔧 **Code Optimization & Efficiency**
+- 🛡️ **Cybersecurity Fundamentals**
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Certifications & Achievements
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&langs_count=7&theme=tokyonight"/>
-  
+
+### **Completed Certifications**
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys-0073E6?style=for-the-badge&logo=infosys&logoColor=white)
+
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frozen-47&theme=tokyonight)
-  
-</div>
+### **Recent Achievements**
+- 🏆 **Microsoft Office Tour 2024** - Active Participant
+- ✅ **8 Microsoft Certifications** - Completed across various domains
+- 📚 **Self-Taught Journey** - Mastering programming fundamentals independently
+- 💼 **Professional Development** - Building industry-ready skills
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Goals & Focus
 
-- [ ] 🚀 Launch my first major open-source project
-- [ ] 📱 Complete mobile app development certification  
-- [ ] 🤖 Build an AI-powered application
-- [ ] 🌐 Contribute to 10 different open-source repositories
-- [ ] 📚 Master advanced data structures and algorithms
+### **2025 Objectives**
+- [ ] 📌 **Master Java** programming and object-oriented design principles
+- [ ] 🎯 Build a strong foundation in **Java & C++** for competitive programming and systems development  
+- [ ] 🚀 **Land an internship** or Zoho opportunity in software development
+- [ ] 🎓 **Complete 10+ tech certifications** across multiple domains
+- [ ] 🔧 **Contribute to open source** projects and build portfolio
 
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frozen-47)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frozen47dev)
-  
-</div>
+### **Current Learning Path**
+```
+Phase 1: Java Mastery ➜ OOP Concepts ➜ Data Structures
+Phase 2: Web Development ➜ HTML/CSS/JS ➜ Full-Stack Basics  
+Phase 3: Competitive Programming ➜ Algorithm Optimization
+Phase 4: Industry Applications ➜ Real-World Projects
+```
 
 ---
 
-## 💭 Developer Quotes
+## 💼 Projects & Experience
 
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-## 🎵 Coding Playlist
-
-When I code, I listen to:
-- 🎧 Lo-fi hip hop beats
-- 🎵 Synthwave & cyberpunk music  
-- 🎼 Classical music for deep focus
-- 🎸 Progressive rock for creative sessions
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|---------|
+| **Data Structures Practice** | Comprehensive implementation of core DS concepts | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) | 📚 Learning |
+| **Algorithm Solutions** | Competitive programming problem solutions | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) | 🚧 Active |
+| **Web Development Journey** | Learning modern web technologies | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript) | 📖 In Progress |
+| **Portfolio Website** | Personal developer portfolio | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) | 🎨 Building |
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Learning Progress
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Frozen-47/Frozen-47/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frozen-47&theme=radical&hide_border=true)
   
 </div>
 
 ---
 
+## 🌟 What Sets Me Apart
+
+- **🚀 Self-Driven**: Independently learning and mastering complex programming concepts
+- **🎯 Goal-Oriented**: Clear roadmap toward software development career
+- **💡 Problem Solver**: Strong foundation in algorithmic thinking and optimization
+- **📈 Growth Mindset**: Constantly seeking new challenges and learning opportunities
+- **🤝 Collaborative**: Eager to contribute to teams and open source projects
+
+---
+
+## 🔍 Exploring Opportunities
+
+I'm actively researching and working on **open source projects**, while exploring:
+
+- 💼 **Internship opportunities** in software development
+- 🏢 **Zoho career opportunities** 
+- 🤝 **Collaborative projects** with fellow developers
+- 📚 **Mentorship opportunities** to accelerate learning
+- 🌐 **Open source contributions** to build experience
+
+---
+
+## 🤝 Let's Connect & Build Something Great!
+
+<div align="center">
+
+Whether you're looking to **collaborate on a project**, need a **motivated developer** for your team, or just want to **connect and chat about tech**, I'm always excited to meet new people and explore new opportunities!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frozen-47)
+
+</div>
+
+---
+
+## 💭 Philosophy
+
 <div align="center">
   
-  ### 🌟 "First, solve the problem. Then, write the code." - John Johnson
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
+> *"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."*
+>
+> **- Robin Sharma**
+
 </div>
 
 ---
 
 <div align="center">
   
-  **⭐ If you found my profile interesting, consider starring some repositories!**
+  ### 🌱 Currently available for internships, collaborations, and learning opportunities!
   
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green.svg)
+  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20and%20Code-red.svg)
+  ![Open to Work](https://img.shields.io/badge/Open%20to-Work-green.svg)
   
 </div>
