@@ -1,4 +1,4 @@
-# Hey! I'm **Sabareesh** 👨‍💻
+# Hi there! I’m **Frozen** ✨
 
 <div align="center">
   
@@ -98,7 +98,7 @@ Phase 4: Industry Applications ➜ Real-World Projects
 | **Data Structures Practice** | Comprehensive implementation of core DS concepts | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) | 📚 Learning |
 | **Algorithm Solutions** | Competitive programming problem solutions | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) | 🚧 Active |
 | **Web Development Journey** | Learning modern web technologies | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript) | 📖 In Progress |
-| **Portfolio Website** | Personal developer portfolio | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) | 🎨 Building |
+| **[Portfolio Website](https://frozen-47.github.io/Portfolio/)** | Personal developer portfolio showcasing projects and skills | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) | 🌐 Live |
 
 ---
 
@@ -145,7 +145,8 @@ I'm actively researching and working on **open source projects**, while explorin
 Whether you're looking to **collaborate on a project**, need a **motivated developer** for your team, or just want to **connect and chat about tech**, I'm always excited to meet new people and explore new opportunities!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sabareesh47](https://www.linkedin.com/in/sabareesh47))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Live_Site-FF6B6B?style=for-the-badge&logo=web)](https://frozen-47.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frozen-47)
 
 </div>
