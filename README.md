@@ -145,7 +145,7 @@ I'm actively researching and working on **open source projects**, while explorin
 Whether you're looking to **collaborate on a project**, need a **motivated developer** for your team, or just want to **connect and chat about tech**, I'm always excited to meet new people and explore new opportunities!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sabareesh47](https://www.linkedin.com/in/sabareesh47))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frozen-47)
 
 </div>
