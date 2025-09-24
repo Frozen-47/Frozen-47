@@ -38,10 +38,14 @@ public:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### **Currently Learning**
+### **Frontend Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Currently Learning**
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=tree&logoColor=white)
 
 ### **Core Concepts**
 - 📊 **Data Structures & Algorithms**
@@ -83,10 +87,10 @@ public:
 
 ### **Current Learning Path**
 ```
-Phase 1: Java Mastery ➜ OOP Concepts ➜ Data Structures
-Phase 2: Web Development ➜ HTML/CSS/JS ➜ Full-Stack Basics  
-Phase 3: Competitive Programming ➜ Algorithm Optimization
-Phase 4: Industry Applications ➜ Real-World Projects
+Phase 1: Advanced Java ➜ Spring Framework ➜ Backend Development
+Phase 2: Competitive Programming ➜ Algorithm Optimization ➜ Problem Solving
+Phase 3: System Design ➜ Database Management ➜ Full-Stack Integration
+Phase 4: Industry Applications ➜ Real-World Projects ➜ Open Source
 ```
 
 ---
@@ -97,7 +101,7 @@ Phase 4: Industry Applications ➜ Real-World Projects
 |---------|-------------|------------|---------|
 | **Data Structures Practice** | Comprehensive implementation of core DS concepts | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) | 📚 Learning |
 | **Algorithm Solutions** | Competitive programming problem solutions | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) | 🚧 Active |
-| **Web Development Journey** | Learning modern web technologies | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript) | 📖 In Progress |
+| **Web Development Projects** | Frontend applications built with modern web technologies | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript) | ✅ Completed |
 | **[Portfolio Website](https://frozen-47.github.io/Portfolio/)** | Personal developer portfolio showcasing projects and skills | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) | 🌐 Live |
 
 ---
