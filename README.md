@@ -1,6 +1,6 @@
 # Hey there 👋  
 
-<img src="https://raw.githubusercontent.com/Frozen-47/Frozen-47/master/resources/banner.png" alt="Hello world">  
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">  
 
 <p align="center">  
   Visitor Count <br>  
