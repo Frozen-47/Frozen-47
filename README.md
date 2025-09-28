@@ -1,10 +1,12 @@
-# Hi there! I'm **Frozen** 👋
+# Hi there! I'm **Frozen** ✨
 
 <div align="center">
   
-**Computer Science Student | Self-Taught Developer | Problem Solver**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Frozen-47&label=Profile%20views&color=0e75b6&style=flat)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;Computer+Science+Student;Problem+Solver;Always+Learning!)](https://git.io/typing-svg)
+  
+  **Passionate about software development and cybersecurity**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Frozen-47&label=Profile%20views&color=0e75b6&style=flat)
   
 </div>
 
