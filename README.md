@@ -104,7 +104,7 @@ I'm **Frozen (Sabareesh)**, a computer science student passionate about **softwa
   
 *"Every expert was once a beginner"*
 
-![Made with ](https://img.shields.io/badge/Made%20with-❤️%20and%20Code-red.svg)
+![Made with ](https://img.shields.io/badge/Made%20with-%20and%20Code-red.svg)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-green.svg)
   
 </div>
