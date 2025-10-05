@@ -92,7 +92,7 @@ I'm **Frozen (Sabareesh)**, a computer science student passionate about **softwa
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF6B6B?style=for-the-badge)](https://frozen-47.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frozen-47)
+
 
 **Open to internships, collaborations, and learning opportunities!**
 
