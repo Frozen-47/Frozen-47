@@ -81,7 +81,6 @@ I'm **Frozen (Sabareesh)**, a computer science student passionate about **softwa
 - [ ] Strengthen competitive programming skills
 - [ ] Land software development internship at Zoho
 - [ ] Complete 10+ technical certifications
-- [ ] Contribute to open source projects
 
 ---
 
