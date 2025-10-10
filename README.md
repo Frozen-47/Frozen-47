@@ -42,20 +42,12 @@ I'm **Frozen (Sabareesh)**, a computer science student passionate about **softwa
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true)
+
   
 </div>
 
 ---
 
-## 🎯 2025 Goals
-
-- [ ] Master Advanced Java & Spring Framework
-- [ ] Strengthen competitive programming skills
-- [ ] Land software development internship at Zoho
-- [ ] Complete 10+ technical certifications
-
----
 
 ## 🤝 Let's Connect
 
