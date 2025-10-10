@@ -34,34 +34,7 @@ I'm **Frozen (Sabareesh)**, a computer science student passionate about **softwa
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
 
-**Core Focus:**
-- Data Structures & Algorithms
-- Competitive Programming
-- Code Optimization
-- Cybersecurity Fundamentals
-
----
-
-## 🏆 Achievements
-
-- 🏆 **Microsoft Office Tour 2024** - Active Participant
-- ✅ **8 Microsoft Certifications** - Completed
-- 💼 **Self-Taught Developer** - C/C++ expertise
-- 🌐 **Live Portfolio** - [View Here](https://frozen-47.github.io/Portfolio/)
-
----
-
-## 🚀 Current Projects
-
-| Project | Description | Tech | Status |
-|---------|-------------|------|---------|
-| **Algorithm Solutions** | Competitive programming solutions | C/C++ | 🔄 Active |
-| **Data Structures** | Core DS implementations | C++ | 📚 Learning |
-| **Portfolio Website** | Personal developer showcase | HTML/CSS/JS | ✅ Live |
-
----
 
 ## 📊 GitHub Stats
 
@@ -90,7 +63,7 @@ I'm **Frozen (Sabareesh)**, a computer science student passionate about **softwa
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF6B6B?style=for-the-badge)](https://frozen-47.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF6B6B?style=for-the-badge)](https://frozen47.vercel.app)
 
 
 **Open to internships, collaborations, and learning opportunities!**
