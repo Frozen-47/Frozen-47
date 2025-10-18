@@ -87,19 +87,19 @@ status: "Open to internships & collaborations 🚀"
 
 ```mermaid
 mindmap
-  root((Frozen's Journey))
-    Software Development
-      C/C++ Mastery
-      DSA Practice
-      System Design
-    Cybersecurity
-      Network Security
-      Ethical Hacking
-      Security Protocols
-    Career Goals
-      Zoho Target
+  root((Frozen))
+    Dev
+      C/C++
+      DSA
+      Systems
+    Security
+      Networks
+      Ethical Hack
+      Protocols
+    Goals
+      Zoho
       Open Source
-      Competitive Programming
+      Competitive
 ```
 
 </div>
