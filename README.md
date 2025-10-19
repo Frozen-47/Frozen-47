@@ -59,12 +59,5 @@ status: "Open to internships & collaborations 🚀"
 ---
 
 <div align="center">
-  
-### *"Every expert was once a beginner"* 💭
-
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20and%20Code-red.svg?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-green.svg?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-
+  ### *"Every expert was once a beginner"* 💭
 </div>
