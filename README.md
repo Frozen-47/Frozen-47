@@ -27,22 +27,17 @@ status: "Open to internships & collaborations 🚀"
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frozen-47&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" height="165"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" height="165"/>
 
 </div>
 
 ---
-
-
 
 ## 🤝 Let's Connect
 
@@ -59,5 +54,7 @@ status: "Open to internships & collaborations 🚀"
 ---
 
 <div align="center">
-  ## *"Every expert was once a beginner"* 💭
+  
+## *"Every expert was once a beginner"* 💭
+
 </div>
