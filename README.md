@@ -51,10 +51,4 @@ status: "Open to internships & collaborations 🚀"
 
 </div>
 
----
 
-<div align="center">
-  
-## *"Every expert was once a beginner"* 💭
-
-</div>
