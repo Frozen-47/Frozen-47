@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-```java
+```py
 name: Frozen (Sabareesh)
 role: Computer Science Student & Aspiring Software Developer
 focus: ["Software Development", "Cybersecurity", "Competitive Programming"]
