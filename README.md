@@ -84,26 +84,6 @@ class Developer {
 
 ---
 
-## 🔥 Current Focus
-
-- 🎯 Preparing for **Zoho interviews**
-- 📚 Mastering **Data Structures & Algorithms**
-- 💻 Building projects in **C++, Java, and JavaScript**
-- 🔐 Exploring **Cybersecurity** concepts
-- 🚀 Contributing to **open-source projects**
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-[![To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=To-do&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/To-do)
-[![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=Chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/Chatbot)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -120,17 +100,8 @@ class Developer {
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 A Little Humor
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
----
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
 
 </div>
+
