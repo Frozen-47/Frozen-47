@@ -1,4 +1,4 @@
-﻿# Hi there! I'm *Frozen*✨
+# Hi there! I'm *Frozen* ✨
 
 <div align="center">
   
@@ -15,15 +15,39 @@
 
 ## 🎯 About Me
 
-cpp
-name: Frozen (Sabareesh)
-role: Computer Science Student & Aspiring Software Developer
-focus: ["Software Development", "Cybersecurity", "Competitive Programming"]
-current_goal: "Landing at Zoho & mastering DSA"
-languages: ["C/C++", "Java", "JavaScript", "HTML/CSS"]
-motto: "Writing efficient, optimized code for real-world solutions"
-status: "Open to internships & collaborations 🚀"
+```cpp
+class Developer {
+    string name = "Frozen (Sabareesh)";
+    string role = "Computer Science Student & Aspiring Software Developer";
+    vector<string> focus = {"Software Development", "Cybersecurity", "Competitive Programming"};
+    string current_goal = "Landing at Zoho & mastering DSA";
+    vector<string> languages = {"C/C++", "Java", "JavaScript", "HTML/CSS"};
+    string motto = "Writing efficient, optimized code for real-world solutions";
+    string status = "Open to internships & collaborations 🚀";
+};
+```
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
@@ -31,8 +55,51 @@ status: "Open to internships & collaborations 🚀"
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frozen-47&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frozen-47&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frozen-47&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+- 🎯 Preparing for **Zoho interviews**
+- 📚 Mastering **Data Structures & Algorithms**
+- 💻 Building projects in **C++, Java, and JavaScript**
+- 🔐 Exploring **Cybersecurity** concepts
+- 🚀 Contributing to **open-source projects**
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+[![To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=To-do&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/To-do)
+[![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=Chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/Chatbot)
 
 </div>
 
@@ -48,5 +115,22 @@ status: "Open to internships & collaborations 🚀"
 
 *💼 Open to internships, collaborations, and learning opportunities!*
 
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😄 A Little Humor
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
 
 </div>
