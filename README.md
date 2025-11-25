@@ -34,6 +34,7 @@ class Developer {
 <div align="center">
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,6 +43,7 @@ class Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -74,9 +76,6 @@ class Developer {
 
 ---
 
-
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -96,8 +95,3 @@ class Developer {
 **Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
 
 </div>
-
-
-
-
-
