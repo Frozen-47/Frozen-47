@@ -1,4 +1,4 @@
-# Hi there! I'm *Frozen* ✨
+# Hi there! I'm *Frozen*✨
 
 <div align="center">
   
@@ -96,6 +96,7 @@ class Developer {
 **Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
 
 </div>
+
 
 
 
