@@ -78,28 +78,22 @@ class Developer {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frozen-47&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Frozen-47&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4&row=2)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 💼 Featured Projects
 
 <div align="center">
 
-![snake gif](https://github.com/Frozen-47/Frozen-47/blob/output/github-contribution-grid-snake-dark.svg)
+> 🚀 Check out my pinned repositories below or visit my [GitHub Profile](https://github.com/Frozen-47?tab=repositories) to see all my projects!
 
-</div>
-
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/YOUR_REPO_NAME)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/YOUR_REPO_NAME_2)
+**Current Focus Areas:**
+- 💻 DSA Problem Solving
+- 🔐 Cybersecurity Tools
+- 🌐 Web Development Projects
 
 </div>
 
