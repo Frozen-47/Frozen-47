@@ -78,7 +78,7 @@ class Developer {
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Frozen-47&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4&row=2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frozen-47&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
