@@ -53,12 +53,6 @@ class Developer {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8&card_width=320" alt="Top Languages" height="180"/>
-
-</div>
 
 <div align="center">
   
@@ -104,4 +98,5 @@ class Developer {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
+
 
