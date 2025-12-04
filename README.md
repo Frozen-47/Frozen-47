@@ -1,4 +1,4 @@
-# Hi there! I'm *Frozen*✨.
+# Hi there! I'm *Frozen*✨
 
 <div align="center">
   
@@ -34,7 +34,6 @@ class Developer {
 <div align="center">
 
 ### Languages
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +42,6 @@ class Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Technologies
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -57,20 +55,51 @@ class Developer {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8&card_width=320" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frozen-47&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frozen-47&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frozen-47&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frozen-47&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frozen-47&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://github.com/Frozen-47/Frozen-47/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/YOUR_REPO_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/YOUR_REPO_NAME_2)
 
 </div>
 
@@ -92,6 +121,15 @@ class Developer {
 
 <div align="center">
 
+### 📫 Fun Fact
+*"Code is like humor. When you have to explain it, it's bad!"* 😄
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 **Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
