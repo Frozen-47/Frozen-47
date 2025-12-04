@@ -74,20 +74,7 @@ class Developer {
 
 ---
 
-## 💼 Featured Projects
 
-<div align="center">
-
-> 🚀 Check out my pinned repositories below or visit my [GitHub Profile](https://github.com/Frozen-47?tab=repositories) to see all my projects!
-
-**Current Focus Areas:**
-- 💻 DSA Problem Solving
-- 🔐 Cybersecurity Tools
-- 🌐 Web Development Projects
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -117,3 +104,4 @@ class Developer {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
+
