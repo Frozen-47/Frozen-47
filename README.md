@@ -1,4 +1,4 @@
-# Hi there! I'm Frozen✨.  
+# Hi there! I'm Frozen✨
 
 <div align="center">
   
@@ -25,79 +25,42 @@ class Developer {
     string motto = "Writing efficient, optimized code for real-world solutions";
     string status = "Open to internships & collaborations 🚀";
 };
-```
-
----
-
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3 align="center">Languages</h3>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h3 align="center">Tools & Technologies</h3>
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-
+💻 Top Projects
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Frozen-47&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+📊 GitHub Stats
+<div align="center">
 
 </div>
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frozen-47&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF)
 
 </div>
 
----
+🤝 Let's Connect
+<div align="center">
 
+💼 Open to internships, collaborations, and learning opportunities!
 
-
-## 🤝 Let's Connect
+</div>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh-gm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frozen47.vercel.app)
+<h3 align="center">📫 Fun Fact</h3>
 
-*💼 Open to internships, collaborations, and learning opportunities!*
+"Code is like humor. When you have to explain it, it's bad!" 😄
 
-</div>
-
----
-
-<div align="center">
-
-### 📫 Fun Fact
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-**Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+Thanks for visiting! Feel free to explore my repositories and connect with me! ⭐
 
 </div>
-
-
-
