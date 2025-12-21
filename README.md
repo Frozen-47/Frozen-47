@@ -64,11 +64,7 @@ class Developer {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Frozen-47&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF)](https://git.io/streak-stats)
 
-</div>
 
 <div align="center">
 
@@ -85,15 +81,6 @@ class Developer {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Replace 'repo-name' with your actual repository names -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/repo-name)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-47&repo=repo-name-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Frozen-47/repo-name-2)
-
-</div>
 
 ---
 
@@ -128,3 +115,4 @@ class Developer {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
+
