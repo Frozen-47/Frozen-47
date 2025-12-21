@@ -110,9 +110,9 @@ class Developer {
 
 **Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
 
-*Profile optimized for recruiters and collaborators | Dark theme aesthetic maintained across all sections*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
+
 
