@@ -1,4 +1,3 @@
-```markdown
 # Hi there! I'm Frozen✨
 
 **Computer Science Student | Software Developer | Problem Solver**
@@ -40,4 +39,3 @@ I'm Sabareesh (Frozen), a passionate CS student focused on building efficient so
 ⭐ Thanks for visiting! Feel free to explore my repositories and reach out!
 
 </div>
-```
