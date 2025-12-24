@@ -1,3 +1,4 @@
+```markdown
 # Hi there! I'm Frozen✨
 
 **Computer Science Student | Software Developer | Problem Solver**
@@ -24,18 +25,6 @@ I'm Sabareesh (Frozen), a passionate CS student focused on building efficient so
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-47&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-47&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
@@ -51,3 +40,4 @@ I'm Sabareesh (Frozen), a passionate CS student focused on building efficient so
 ⭐ Thanks for visiting! Feel free to explore my repositories and reach out!
 
 </div>
+```
