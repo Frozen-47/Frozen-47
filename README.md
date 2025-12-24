@@ -1,4 +1,4 @@
-# Hi there! I'm Frozen✨.
+# Hi there! I'm Frozen✨
 
 ## 🎯 About Me
 
