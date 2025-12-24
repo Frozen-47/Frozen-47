@@ -6,13 +6,22 @@
 
 ## 👨‍💻 About Me
 
-I'm Sabareesh (Frozen), a passionate CS student focused on building efficient solutions and mastering the fundamentals. Currently preparing for Zoho placement while actively seeking internship opportunities in software development and cybersecurity.
-
-**Current Focus:**
-- 🎯 Mastering Data Structures & Algorithms
-- 💼 Seeking internships in Software Development & Cybersecurity
-- 🚀 Building real-world projects
-- 🤝 Open to collaborations
+```java
+public class Developer {
+    private String name = "Frozen (Sabareesh)";
+    private String role = "Computer Science Student";
+    private String[] skills = {"C/C++", "Java", "JavaScript", "HTML/CSS"};
+    private String currentGoal = "Landing a role at Zoho & mastering DSA";
+    private boolean openToWork = true;
+    
+    public void getCurrentFocus() {
+        System.out.println("🎯 Mastering Data Structures & Algorithms");
+        System.out.println("💼 Seeking Software Development & Cybersecurity Internships");
+        System.out.println("🚀 Building real-world projects");
+        System.out.println("🤝 Open to collaborations");
+    }
+}
+```
 
 ---
 
