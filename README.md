@@ -1,6 +1,6 @@
 # Hi there! I'm Sabareesh...
 
-**Computer Science Student | Software Developer | Problem Solver**
+**Software Developer | Problem Solver**
 
 ---
 
