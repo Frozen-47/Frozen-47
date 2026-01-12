@@ -9,7 +9,7 @@
 ```java
 public class Developer {
     private String name = "Frozen (Sabareesh)";
-    private String role = "Computer Science Student";
+    private String role = "Computer Tech Student";
     private String[] skills = {"C/C++", "Java", "JavaScript", "HTML/CSS"};
     private String currentGoal = "Landing a role at Zoho & mastering DSA";
     private boolean openToWork = true;
