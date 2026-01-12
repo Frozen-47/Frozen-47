@@ -1,10 +1,10 @@
-# Hi there! I'm Frozen ✨
+# Hi there! I'm Sabareesh...
 
 **Computer Science Student | Software Developer | Problem Solver**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```java
 public class Developer {
@@ -15,17 +15,16 @@ public class Developer {
     private boolean openToWork = true;
     
     public void getCurrentFocus() {
-        System.out.println("🎯 Mastering Data Structures & Algorithms");
-        System.out.println("💼 Seeking Software Development & Cybersecurity Internships");
-        System.out.println("🚀 Building real-world projects");
-        System.out.println("🤝 Open to collaborations");
+        System.out.println("Seeking Software Development & Cybersecurity Internships");
+        System.out.println("Building real-world projects");
+        System.out.println("Open to collaborations");
     }
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** C/C++ • Java • JavaScript • HTML/CSS
 
@@ -33,7 +32,7 @@ public class Developer {
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabareeshgm47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh47)
