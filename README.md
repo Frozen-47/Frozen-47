@@ -1,6 +1,6 @@
 # Hi there! I'm Sabareesh...
 
-**Software Developer | Problem Solver**
+**Java Developer | Problem Solver**
 
 ---
 
