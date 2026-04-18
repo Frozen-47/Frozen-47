@@ -57,20 +57,5 @@ public class Developer {
 
 ---
 
-## 🧠 Current Focus
-
-* 🔥 Mastering Data Structures & Algorithms
-* ⚛️ Building React + TSX Projects
-* 🛡️ Exploring Cybersecurity
-
----
-
-## ✨ Quote
-
-<p align="center">
-<i>"Write clean code, solve real problems, keep learning."</i>
-</p>
-
----
 
 ⭐ **Thanks for visiting! Let’s build something awesome together 🚀**
