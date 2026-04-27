@@ -1,18 +1,26 @@
-# Hi, I'm Sabareesh 👋
+# Sabareesh (Frozen) 👾
 
-I'm a Computer Technology student from Erode, Tamil Nadu — passionate about building things with code and breaking things to understand them better. I go by **Frozen** online.
+CS student by day, terminal addict by night. I build things, break things, and occasionally fix them.
 
-I mostly work with **C++, Java, and JavaScript**, and I'm currently focused on sharpening my DSA skills and getting into software development or cybersecurity.
+Currently deep in **DSA**, writing **Java & C++**, and shipping real projects — not just tutorials.
+Aiming for a spot at **Zoho** or a solid dev/cybersecurity internship.
 
-Always open to interesting projects, collaborations, or just a good tech conversation.
+If you're here to collaborate, hire, or just talk tech — you're in the right place.
 
 ---
 
-**Languages:** C, C++, Java, JavaScript, TypeScript, HTML, CSS  
-**Tools:** Git, GitHub, VS Code, Linux, Vercel  
+**Stack:**  
+`C` `C++` `Java` `JavaScript` `TypeScript` `HTML` `CSS` `React`
+
+**Tools:**  
+`Git` `GitHub` `Linux` `VS Code` `Vercel` `Node.js`
+
+**Interests:**  
+`DSA` `Cybersecurity` `Systems` `Open Source` `Web Dev`
 
 ---
 
 📬 [sabareeshgm47@gmail.com](mailto:sabareeshgm47@gmail.com)  
 🌐 [frozenn.in](https://frozenn.in)  
-💼 [linkedin.com/in/sabareesh47](https://linkedin.com/in/sabareesh47)
+💼 [linkedin.com/in/sabareesh47](https://linkedin.com/in/sabareesh47)  
+🐙 [github.com/Frozen-47](https://github.com/Frozen-47)
