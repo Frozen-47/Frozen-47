@@ -20,4 +20,4 @@ If you're here to collaborate, hire, or just talk tech — you're in the right p
 
 ---
 
-📬 [Email](mailto:sabareeshgm47@gmail.com) • 🌐 [Portfolio](https://frozenn.in) • 💼 [LinkedIn](https://linkedin.com/in/sabareesh47) • 🐙 [GitHub](https://github.com/Frozen-47)
+📬 [`Email`](mailto:sabareeshgm47@gmail.com) • 🌐 [`Portfolio`](https://frozenn.in) • 💼 [`LinkedIn`](https://linkedin.com/in/sabareesh47) • 🐙 [`GitHub`](https://github.com/Frozen-47)
