@@ -1,6 +1,6 @@
 # Sabareesh (Frozen) 👾
 
-CS student by day, terminal addict by night. I build things, break things, and occasionally fix them.
+CT student. I build things, break things, and occasionally fix them.
 
 Currently deep in **DSA**, writing **Java & C++**, and shipping real projects — not just tutorials.
 Aiming for a spot at **Zoho** or a solid dev/cybersecurity internship.
