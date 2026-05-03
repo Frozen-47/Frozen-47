@@ -1,23 +1,24 @@
-# Sabareesh (Frozen) 👾
+# Sabareesh (aka Frozen) 👾
 
-CT student. I build things, break things, and occasionally fix them.
+CT student → I build things, break things, and occasionally fix them.
 
-Currently deep in **DSA**, writing **Java & C++**, and shipping real projects — not just tutorials.
-Aiming for a spot at **Zoho** or a solid dev/cybersecurity internship.
+Currently → deep into **DSA**, working with **Java & C++**, and shipping real projects  
+Goal → **Zoho** or a solid dev/cybersecurity internship
 
-If you're here to collaborate, hire, or just talk tech — you're in the right place.
+If you're here → collaborate / hire / talk tech
 
 ---
 
-**Stack:**  
+**Stack →**  
 `C` `C++` `Java` `JavaScript` `TypeScript` `HTML` `CSS` `React`
 
-**Tools:**  
+**Tools →**  
 `Git` `GitHub` `Linux` `VS Code` `Vercel` `Node.js`
 
-**Interests:**  
+**Interests →**  
 `DSA` `Cybersecurity` `Systems` `Open Source` `Web Dev`
 
 ---
 
-[`Email`](mailto:sabareeshgm47@gmail.com) • [`Portfolio`](https://frozenn.in) • [`LinkedIn`](https://linkedin.com/in/sabareesh47)  • [`Dev.to`](https://dev.to/frozen-dev) • [`Medium`](https://medium.com/@frozen.dev)
+**Connect →**  
+[Email](mailto:sabareeshgm47@gmail.com) • [Portfolio](https://frozenn.in) • [LinkedIn](https://linkedin.com/in/sabareesh47) • [Dev.to](https://dev.to/frozen-dev) • [Medium](https://medium.com/@frozen.dev)
