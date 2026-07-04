@@ -21,3 +21,4 @@ If you're here to collaborate, hire, or talk tech — you're in the right place.
 ---
 
 [`Email ↗`](mailto:sabareeshgm47@gmail.com) • [`Portfolio ↗`](https://frozenn.in) • [`LinkedIn ↗`](https://linkedin.com/in/sabareesh47) • [`Dev.to ↗`](https://dev.to/frozen-dev) • [`Medium ↗`](https://medium.com/@frozen.dev)
+
