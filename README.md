@@ -10,7 +10,7 @@ If you're here to collaborate, hire, or talk tech — you're in the right place.
 ---
 
 **Stack →**  
-`C` `C++` `Java` `JavaScript` `TypeScript` `HTML` `CSS` `React`
+`C` `C++` `Python` `Java` `JavaScript` `TypeScript` `HTML` `CSS` `React`
 
 **Tools →**  
 `Git` `GitHub` `Linux` `VS Code` `Vercel` `Node.js`
