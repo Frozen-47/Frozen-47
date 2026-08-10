@@ -2,7 +2,7 @@
 
 CT student. I build things, break things, and occasionally fix them.
 
-Currently deep into **DSA**, working with **Java & C++**, and shipping real projects — not just tutorials.  
+Currently deep into **DSA**, working with **Python, Java & C++**, and shipping real projects — not just tutorials.  
 Aiming for **Zoho** or a solid dev/cybersecurity internship.
 
 If you're here to collaborate, hire, or talk tech — you're in the right place.
